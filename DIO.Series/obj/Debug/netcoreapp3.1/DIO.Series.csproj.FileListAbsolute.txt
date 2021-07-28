@@ -1,0 +1,13 @@
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+E:\Projetos\Git\GitHub\DIO-CreateMove\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
